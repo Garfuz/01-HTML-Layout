@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>alistapart</title>
+  </head>
+  <body>
+    <header>
+      <nav class="navtop">
+        <ul>
+          <li>article</li>
+          <li>events</li>
+          <li>topics</li>
+          <li>Write for us</li>
+        </ul>
+      </nav>
+        <h1>a list apart</h1>
+    </header>
+
+    <section class="article">
+      <h4>NEW! JUL 27,2017</h4>
+        <h2>Practical User Research: Creating a Culture of Learning in Large Organizations</h2>
+      <h4>by Sam Moore 1 Comment</h4>
+          <p>User research doesn’t have to be a big dollar, corporate initiative. Sam Moore shows how, by paying attention to the people, tools, and work practices within an organization, your team can demonstrate the value of user research on the ground—which will open doors to additional resources in the future.</p>
+    </section>
+
+    <section class="article2">
+      <h2>More from A List Apart</h2>
+        <h4>Team Conflict: Four Ways to Deflate the Discord that’s Killing Your Team</h4>
+          <p>by Jessica Hall</p>
+            <p>Navigating the complexities of human interaction.</p>
+              <h5>Process · June 27, 2017</h5>
+
+        <h4>Color Accessibility Workflows</h4>
+          <p>by Geri Coady</p>
+            <p>Seeing color through other people’s eyes.</p>
+              <h5>User Experience · June 6, 2017</h5>
+
+        <h4>The Mindfulness of a Manual Performance Audit</h4>
+          <p>by Chip Cullen</p>
+            <p>Let’s not automate everything away, urges Chip Cullen in a tribute to the benefits of occasional manual performance audits.</p>
+              <h5>Workflow & Tools · May 30, 2017</h5>
+
+        <h4>Web Maintainability Industry Survey: How Do We Maintain?</h4>
+          <p>by Jens Oliver Meiert</p>
+            <p>Take part in the Great Web Maintainability Survey</p>
+              <h5>Industry & Business · May 16, 2017</h5>
+
+        <h4>Fait Accompli: Agentive Tech Is Here</h4>
+          <p>by Chris Noessel</p>
+            <p>Agentive Technology, the power of agents, and working in behalf of the user.</p>
+              <h5>User Experience · May 9, 2017</h5>
+
+        <h4>User Research When You Can’t Talk to Your Users</h4>
+          <p>by Jon Peterson</p>
+            <p>No money for user research? Start thinking unconventionally.</p>
+              <h5>User Experience · May 2, 2017</h5>
+
+        <h4>Focus on What You Do Best and Outsource the Rest</h4>
+          <p>by Suzanne Scacca</p>
+            <p>Play to your strengths, and outsource everything that slows you down or makes you less productive.</p>
+              <h5>Industry · April 18, 2017</h5>
+
+        <h4>Widen Out: Using Your Blog to Attract New Clients/h4>
+          <p>by Dmitry Dragilev</p>
+            <p>Transform your weblog into a lead generating machine.</p>
+              <h5>Writing · April 4, 2017</h5>
+
+        <h4>Practical CSS Grid: Adding Grid to an Existing Design</h4>
+          <p>by Eric Meyer</p>
+            <p>Converting existing designs to Grid without breaking in non-grid browsers</p>
+              <h5>CSS · March 23, 2017</h5>
+
+        <h4>Practical Design Discovery</h4>
+          <p>by Dan Brown</p>
+            <p>Ensure design choices trace back to specific objectives</p>
+              <h5>Workflow & Tools · March 9, 2017</h5>
+
+        <h4>Long-Term Design: Rewriting the Design Sales Pitch</h4>
+          <p>by Jarrod Drysdale</p>
+            <p>Stop hawking design like it was a household gadget that needs upgrading and start building relationships instead.</p>
+              <h5>Design · March 2, 2017</h5>
+
+        <h4>Big Data Visualization with Meaning</h4>
+          <p>by Byron Houwens</p>
+            <p>Web-based data visualizations take UX to a new level.</p>
+              <h5>State of the Web · February 23, 2017</h5>
+
+        <p>OUR SPONSOR</p>
+          <p>AN EVENT APART.</p>
+            <p>10+ years of design, code, and content for web & interaction designers. $100 off with code AEAALA.</p>
+            <a href="https://srv.buysellads.com/ads/click/x/GTND42QEC6SI6K3UCTB4YKQMCTYI5K7YCWBDEZ3JCWYD427NCWBIL2JKC6BITKQUCV7DTK3EHJNCLSIZZRCCLSIZ">https://aneventapart.com</a>
+
+        <p>A List Apart explores the design, development, and meaning of web content, with a special focus on web standards and best practices. </p>
+        <p>Explore our articles or find out more about us.</p>
+    </section>
+
+    <nav class="navbottom">
+      <ul>
+        <li>About</li>
+        <li>Authors</li>
+        <li>Masthead</li>
+        <li>Style Guide</li>
+        <li>Contact</li>
+        <li>Sponsorships</li>
+        <li class="links">
+					Follow us:
+					<a href="/about/rss">RSS</a> ·
+					<a href="/email-signup/">Email</a> ·
+					<a href="http://www.facebook.com/alistapart" itemprop="sameAs">Facebook</a> ·
+					<a href="https://plus.google.com/107749003388305496076" rel="publisher" itemprop="sameAs">Google+</a> ·
+					<a href="http://www.twitter.com/alistapart" itemprop="sameAs">Twitter</a>
+				</li>
+      </ul>
+    </nav>
+
+    <section class="article3">
+      <ul class="add1">
+					<li>
+						<a href="http://abookapart.com">
+							<img src="/components/assets/img/promo_aba.png" alt="">
+							<p>A Book Apart</p>
+							<p>Mobile First &amp; Responsive Web Design bundle.</p>
+							<p>Buy both and save!</p>
+							<p>Order now</p>
+						</a>
+					</li>
+          <li>
+						<a href="http://aneventapart.com">
+							<img src="/components/assets/img/promo_aea.png" alt="">
+							<p>An Event Apart</p>
+							<p>Three days of design, code, and content for people who make websites.</p>
+							<p>See the 2016 schedule</p>
+						</a>
+					</li>
+				</ul>
+    </section>
+
+    <footer>
+      <p>ISSN 1534-0295 · Copyright © 1998–2017 A List Apart & Our Authors</p>
+      <p>Permissions & Copyright · Fonts by Webtype · Log In · Register</p>
+      <h2>*for people who make websites</h2>
+    </footer>
+
+  </body>
+</html>
